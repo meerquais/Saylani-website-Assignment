@@ -221,6 +221,12 @@ main {
   justify-content: center;
   padding: 20px;
 }
+.icons div span{
+  /* text-align: center; */
+  /* border: 1px solid red; */
+  margin-top: 50px;
+  margin-right:5px;
+}
 .icons div img {
   /* display: flex; */
   /* margin-left: 40px; */
