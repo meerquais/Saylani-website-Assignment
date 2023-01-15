@@ -320,7 +320,7 @@ main {
 }
 .other_project {
   width: 55%;
-  border: 2px solid brown;
+  /* border: 2px solid brown; */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -597,5 +597,21 @@ footer {
 }
 .footer_sec ul li a {
   text-decoration: none;
+  color: white;
+}
+.last_logo{
+  width: 89%;
+  margin: 0 auto;
+}
+.last_logo img{
+  margin: 20px 450px;
+  height: 130px;
+}
+.last_logo span{
+  margin: 20px 450px  0 450px ;
+  font-size: 10px;
+  color: white;
+}
+.contact ul li{
   color: white;
 }
